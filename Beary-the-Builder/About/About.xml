@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+  <name>Storyteller - Beary the Peaceful Builder</name>
+  <author>2nd Adventure</author>
+  <supportedVersions>
+	<li>1.4</li>
+  </supportedVersions>
+  <packageId>2ndAdventure.BtB</packageId>
+  <description>Do you like build base? I like build base.
+But lots of events get in way of build base, so I remove them.
+	
+-Removes annoying events + raids that get in the way of build base
+-Good / some neutral events still happen
+-[NEW!] difficulty that is more peaceful than peaceful
+   
+Should be compatible with everything...probably.
+
+Thank you to Mr. Samuel Streamer(youtube) for the Bear artwork and for the wonderful entertainment he shares with us.
+</description>
+  <loadAfter>
+    <li>Ludeon.RimWorld</li>
+    <li>Ludeon.RimWorld.Royalty</li>
+    <li>brrainz.harmony</li>
+  </loadAfter>
+</ModMetaData>
